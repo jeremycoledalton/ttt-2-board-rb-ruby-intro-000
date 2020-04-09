@@ -1,1 +1,1 @@
-Row = Board
+Board = [" ", " "]
