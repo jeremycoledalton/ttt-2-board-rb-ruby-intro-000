@@ -1,2 +1,2 @@
-row1 = [" ", " "]
-Board = row1
+board = [" ", " "]
+
